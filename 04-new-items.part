@@ -42731,4 +42731,17 @@ Effect: You gain a +5 power bonus to skill checks made as part of the next ritua
 		<specific name="Granted Powers" />
 		<specific name="Rarity"> Rare </specific>
 	</RulesElement>
+	 <RulesElement name="Vecna’s Dark Secret (Epic Tier)" type="Magic Item" internal-id="ID_VECNAS_DARK_SECRET" source="The Book Of Vile Darkness">
+		<Flavor> Vecna rewards your service with forbidden knowledge and a taste of what undeath has to offer. </Flavor>
+		<specific name="Level"> 29 </specific>
+		<specific name="Gold"> 2625000 </specific>
+		<specific name="Magic Item Type"> Divine Boon </specific>
+		<specific name="Property"> Gain a +6 item bonus to knowledge checks. </specific>	
+		<specific name="Special" />
+		<specific name="Utility Power (Daily)"> Minor Action.
+Effect: Choose one ally within 5 squares of you. Until the end of the encounter, that ally gains vulnerable 15 necrotic, you gain resist 20 necrotic, and you deal 3d6 extra necrotic damage on attacks that deal necrotic damage.</specific>
+		<specific name="_Rarity" />
+		<specific name="Granted Powers" />
+		<specific name="Rarity"> Uncommon </specific>
+	</RulesElement>
 </D20Rules>
