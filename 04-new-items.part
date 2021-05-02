@@ -42731,7 +42731,7 @@ Effect: You gain a +5 power bonus to skill checks made as part of the next ritua
 		<specific name="Granted Powers" />
 		<specific name="Rarity"> Rare </specific>
 	</RulesElement>
-	 <RulesElement name="Vecna’s Dark Secret (Epic Tier)" type="Magic Item" internal-id="ID_VECNAS_DARK_SECRET" source="The Book Of Vile Darkness">
+	 <RulesElement name="Vecna’s Dark Secret (epic tier)" type="Magic Item" internal-id="ID_VECNAS_DARK_SECRET" source="The Book Of Vile Darkness">
 		<Flavor> Vecna rewards your service with forbidden knowledge and a taste of what undeath has to offer. </Flavor>
 		<specific name="Level"> 29 </specific>
 		<specific name="Gold"> 2625000 </specific>
