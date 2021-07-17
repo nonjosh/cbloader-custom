@@ -117,6 +117,7 @@
  Updated 24-November-2013 Gem of Seeing repaired. 
  Updated 18-January-2014 Added Dragon 428, 429, 430 and Dungeon 219, 220, 221 New items
  Updated 16-August-2015 Added Serpentine Knife of Zannad from the Book of Vile Darkness. 
+ Updated 2-May-2021 Added Vecna’s Dark Secret (epic tier). 
 	</Changelog>
 	<RulesElement name="Primal Element (level 2)" type="Magic Item" internal-id="ID_FMP_MAGIC_ITEM_9295" source="Dark Sun Campaign Setting">
 		<Flavor> Creatures not of this world suffer the sting of this primal essence. </Flavor>
@@ -29824,7 +29825,7 @@ Effect: You produce a sail that, once installed on a ship, can move it at a norm
 		<specific name="Gold"> 105000 </specific>
 		<specific name="Magic Item Type"> Consumable </specific>
 		<specific name="Special"/>
-		<specific name="Utility Power (Consumable)"> Minor Action.
+		<specific name="Utility Power (Consumable)"> Free Action.
 Trigger: The result (success or failure) of any check or roll that affects you is determined (for example, a check that you make or an attack that will damage you).
 Effect: Reroll that die roll, and use the second result. </specific>
 		<specific name="Property"/>
